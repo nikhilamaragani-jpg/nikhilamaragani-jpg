@@ -2,9 +2,9 @@
 
 # Amaragani Nikhil Sai
 
-### Junior Data · ML · Applied AI Engineer
+### Junior Data Engineer · ML Engineer · Applied AI Engineer
 
-**I design and ship portfolio-grade data, machine learning, and applied AI systems — modular pipelines, evaluation, APIs, and clear engineering documentation.**
+**I build production-style Data Engineering, Machine Learning, and Applied AI systems — modular pipelines, evaluation, REST APIs, Docker packaging, and documentation teams can run.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nikhilamaragani-jpg.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-sai-amaragani-219115382)
@@ -21,9 +21,9 @@
 
 ## Elevator pitch
 
-B.Tech Computer Science engineer (expected **May 2026**, CGPA **7.0**) building **end-to-end technical projects** that mirror how junior teams work: problem framing, data pipelines, model training/evaluation, REST APIs, logging, Docker packaging, and documentation recruiters can run in minutes.
+B.Tech Computer Science engineer (expected **May 2026**, CGPA **7.0**) shipping **end-to-end portfolio systems** that mirror junior team work: data pipelines, model training and metrics, RAG-style Applied AI services, logging, Docker, CI, and clear scope notes.
 
-I am **open to entry-level / graduate / junior roles** in **Data Analytics, Data Engineering, Machine Learning, and Applied AI**, including opportunities with European teams that hire internationally.
+**Open to entry-level, graduate, and junior roles** in **Data Analytics, Data Engineering, Machine Learning, Applied AI, and Python backend** — including European teams that hire internationally.
 
 ---
 
@@ -33,55 +33,53 @@ I am **open to entry-level / graduate / junior roles** in **Data Analytics, Data
 |----------|--------|
 | Primary | Junior Data Engineer · Junior ML Engineer · Applied AI / NLP Engineer |
 | Strong fit | Junior Data Analyst · Junior Software Engineer (Python / backend) |
-| Keywords | Python, SQL, Pandas, NumPy, scikit-learn, ETL, FastAPI, Docker, Git, NLP, GenAI concepts |
+| Stack keywords | Python, SQL, Pandas, NumPy, scikit-learn, ETL, FastAPI, Docker, Git, GitHub Actions, NLP, RAG, GenAI concepts, Power BI, REST API |
 
 ---
 
 ## What I build
 
-1. **Data & ML pipelines** — clean → transform → train → evaluate → log  
-2. **Applied AI services** — intent/RAG-style retrieval, knowledge bases, REST APIs  
-3. **Trust, identity & automation workflows** — classification, hashing/integrity, rules engines  
-4. **Engineering hygiene** — modular packages, tests, Docker, CI scaffolding, honest scope notes  
-
-Every major repo separates **what runs today** from **roadmap / production hardening**.
+1. **Data Engineering** — extract → transform → load, batch scoring, audit logs, SQL analytics  
+2. **Machine Learning** — train, evaluate (F1, confusion matrix), tune, infer, export artifacts  
+3. **Applied AI** — retrieval-grounded chat services, FastAPI, optional auth, evaluation harness  
+4. **Engineering practice** — packages, tests, Docker, CI, configuration, honest roadmaps  
 
 ---
 
 ## Featured projects
 
-| Project | Domain | Stack signal | Start here |
-|---------|--------|--------------|------------|
-| [**Smart Tourism Chatbot (Flagship)**](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism) | Applied AI · NLP · API | Python, FastAPI, RAG-style retrieval, SQLite, Docker | [README](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism) · [Demo](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism/blob/main/docs/DEMO.md) |
-| [**Fake Account Detection**](https://github.com/nikhilamaragani-jpg/detection-of-fake-accounts-on-social-media) | ML · Data Analysis · Trust & Safety | Pandas, scikit-learn, ETL-style pipeline, metrics | [README](https://github.com/nikhilamaragani-jpg/detection-of-fake-accounts-on-social-media) · [Demo](https://github.com/nikhilamaragani-jpg/detection-of-fake-accounts-on-social-media/blob/main/docs/DEMO.md) |
-| [**Blockchain Notarization + eID**](https://github.com/nikhilamaragani-jpg/blockchain-autonomous-notarization-e-id) | Security · Digital identity | SHA-256, ledger records, integrity verification | [README](https://github.com/nikhilamaragani-jpg/blockchain-autonomous-notarization-e-id) |
-| [**ID Detection & Penalty Workflow**](https://github.com/nikhilamaragani-jpg/id-detection-and-penalty-mechanism) | Automation · Rules · CV-ready design | Detection interface, rules engine, audit logging | [README](https://github.com/nikhilamaragani-jpg/id-detection-and-penalty-mechanism) |
-| [**Certificates & Training**](https://github.com/nikhilamaragani-jpg/certificates-achievements) | Evidence of training | AI internship, industrial training, workshops | [Repo](https://github.com/nikhilamaragani-jpg/certificates-achievements) |
+| Project | Domain | Stack signal | Links |
+|---------|--------|--------------|-------|
+| [**Smart Tourism Chatbot (Flagship)**](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism) | Applied AI · NLP · API | FastAPI, RAG-style retrieval, Docker, eval | [Demo](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism/blob/main/docs/DEMO.md) · [API](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism/blob/main/docs/API.md) |
+| [**Fake Account Detection**](https://github.com/nikhilamaragani-jpg/detection-of-fake-accounts-on-social-media) | ML · Data · ETL | Pandas, scikit-learn, SQL, metrics, Docker | [Demo](https://github.com/nikhilamaragani-jpg/detection-of-fake-accounts-on-social-media/blob/main/docs/DEMO.md) · [DA](https://github.com/nikhilamaragani-jpg/detection-of-fake-accounts-on-social-media/blob/main/docs/DATA_ANALYST.md) |
+| [**Notarization + eID Concepts**](https://github.com/nikhilamaragani-jpg/blockchain-autonomous-notarization-e-id) | Security · Identity | SHA-256, ledger, verify | [Demo](https://github.com/nikhilamaragani-jpg/blockchain-autonomous-notarization-e-id/blob/main/docs/DEMO.md) |
+| [**ID Detection & Penalty**](https://github.com/nikhilamaragani-jpg/id-detection-and-penalty-mechanism) | Automation · Rules | Decision engine, audit log | [Demo](https://github.com/nikhilamaragani-jpg/id-detection-and-penalty-mechanism/blob/main/docs/DEMO.md) |
+| [**Certificates & Training**](https://github.com/nikhilamaragani-jpg/certificates-achievements) | Evidence | AI internship, industrial training, workshops | [Repo](https://github.com/nikhilamaragani-jpg/certificates-achievements) |
 
 ---
 
 ## Technical stack
 
 ```text
-Languages        Python · SQL · Java (basic) · C (basic)
-Data             Pandas · NumPy · SQL · EDA · feature engineering
-ML               scikit-learn · classification · metrics (accuracy, F1) · model comparison
-Applied AI       NLP / chatbots · knowledge retrieval · RAG-style design · FastAPI services
-Engineering      Git · GitHub · Docker · REST APIs · modular packages · logging · SQLite
-Analytics        Power BI · dashboards · business-oriented presentation
-Core CS          DSA · OOP · DBMS · OS · Computer Networks
+Languages     Python · SQL · Java (basic) · C (basic)
+Data / DE     Pandas · NumPy · SQL · ETL batch jobs · SQLite · (PostgreSQL roadmap)
+ML            scikit-learn · classification · F1 · confusion matrix · GridSearchCV · pipelines
+Applied AI    NLP · RAG-style retrieval · FastAPI · prompt templates · evaluation harness
+Engineering   Git · GitHub Actions · Docker · REST APIs · logging · config · modular packages
+Analytics     Power BI · EDA · dashboard-ready exports
+Core CS       DSA · OOP · DBMS · OS · Computer Networks
 ```
 
 ---
 
 ## Experience & training
 
-| Role / program | Outcomes |
-|----------------|----------|
-| **AI Intern — Agrasta Academy** | Data preprocessing, model training, evaluation workflows |
-| **Industrial Training in AI — Agrasta** | Applied ML lifecycle practice |
-| **Conscience Technologies** (Apr–May 2025) | Blockchain-inspired notarization / eID mini project with industry mentoring |
-| **Workshops** | Power BI · Python with AI · Summer of AI program exposure |
+| Program | Outcomes |
+|---------|----------|
+| **AI Intern — Agrasta Academy** | Preprocessing, training, evaluation |
+| **Industrial Training in AI — Agrasta** | Applied ML lifecycle |
+| **Conscience Technologies** (Apr–May 2025) | Notarization / eID mini project with industry mentoring |
+| **Workshops** | Power BI · Python with AI · Summer of AI exposure |
 
 ---
 
@@ -91,34 +89,34 @@ Core CS          DSA · OOP · DBMS · OS · Computer Networks
 Sri Indu Institute of Engineering and Technology (Affiliated to JNTUH)  
 **Expected graduation:** May 2026 · **CGPA:** 7.0 / 10  
 
-Coursework: Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · Python · Artificial Intelligence · Machine Learning
+Coursework: DSA · OOP · DBMS · OS · Networks · Python · AI · Machine Learning
 
 ---
 
-## Career roadmap (12–18 months)
+## Career roadmap
 
 | Horizon | Focus |
 |---------|--------|
-| Now | Strengthen flagship Applied AI API + ML evaluation quality; Docker/CI on all core repos |
-| 0–6 months | Junior DE/ML role: production data pipelines, stronger SQL, cloud basics |
-| 6–18 months | Own services end-to-end: monitoring, evaluation, reliable batch/stream jobs |
+| Now | Flagship API quality, ML metrics artifacts, Docker/CI consistency |
+| 0–6 months | Junior DE/ML role: stronger SQL, cloud basics, production data jobs |
+| 6–18 months | Own services end-to-end: monitoring, evaluation, reliable pipelines |
 
 ---
 
 ## Contact
 
-| Channel | Link |
-|---------|------|
+| Channel | |
+|---------|--|
 | Email | [nikhilamaragani@gmail.com](mailto:nikhilamaragani@gmail.com) |
 | LinkedIn | [nikhil-sai-amaragani](https://www.linkedin.com/in/nikhil-sai-amaragani-219115382) |
 | Portfolio | [nikhilamaragani-jpg.github.io](https://nikhilamaragani-jpg.github.io/) |
 | Phone | +91 93913 33050 |
-| Location | Hyderabad, India · open to remote / relocation discussions for EU junior roles |
+| Location | Hyderabad, India · open to remote / EU junior role discussions |
 
 ---
 
 <div align="center">
 
-**Building systems. Measuring results. Documenting trade-offs.**
+**Production thinking. Measurable results. Honest scope.**
 
 </div>
