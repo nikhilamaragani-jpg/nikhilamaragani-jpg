@@ -39,7 +39,7 @@ I continuously upskill in **applied AI, machine learning, and system design**, a
 | [**Fake Account Detection**](https://github.com/nikhilamaragani-jpg/detection-of-fake-accounts-on-social-media) | ML classification · feature engineering · evaluation | [Interview](https://github.com/nikhilamaragani-jpg/detection-of-fake-accounts-on-social-media/blob/main/docs/INTERVIEW.md) · [Demo](https://github.com/nikhilamaragani-jpg/detection-of-fake-accounts-on-social-media/blob/main/docs/DEMO.md) |
 | [**Blockchain Notarization + eID**](https://github.com/nikhilamaragani-jpg/blockchain-autonomous-notarization-e-id) · *Mini + industry* | Hashing · ledger · digital identity concepts | [Interview](https://github.com/nikhilamaragani-jpg/blockchain-autonomous-notarization-e-id/blob/main/docs/INTERVIEW.md) · [Demo](https://github.com/nikhilamaragani-jpg/blockchain-autonomous-notarization-e-id/blob/main/docs/DEMO.md) |
 | [**ID Detection & Penalty Mechanism**](https://github.com/nikhilamaragani-jpg/id-detection-and-penalty-mechanism) | Rules engine · CV concepts · audit logging | [Interview](https://github.com/nikhilamaragani-jpg/id-detection-and-penalty-mechanism/blob/main/docs/INTERVIEW.md) · [Demo](https://github.com/nikhilamaragani-jpg/id-detection-and-penalty-mechanism/blob/main/docs/DEMO.md) |
-| [**Certificates & Achievements**](https://github.com/nikhilamaragani-jpg/certificates-achievements) | Internships · workshops · upskilling record | — |
+| [**Certificates & Achievements**](https://github.com/nikhilamaragani-jpg/certificates-achievements) | Training · workshops · upskilling record | — |
 
 Each project includes: **PROJECT_BRIEF · DEMO · INTERVIEW · RESUME_BULLETS** under `docs/`.
 
