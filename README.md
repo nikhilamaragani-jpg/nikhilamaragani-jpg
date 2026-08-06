@@ -21,7 +21,7 @@
 
 I am a final-year **B.Tech Computer Science and Engineering** student at **Sri Indu Institute of Engineering and Technology (JNTUH)**, expected graduation **May 2026** (CGPA **7.0**).
 
-I continuously upskill in **applied AI, machine learning, and system design**, and I document that learning through **runnable project repositories** — clear problem framing, modular architecture, demos, and write-ups. Each major project keeps an honest distinction between the **working prototype** and the **full academic report scope**.
+I continuously upskill in **applied AI, machine learning, and system design**, and I document that learning through **runnable project repositories** — problem framing, modular architecture, demos, and clear write-ups. Each major project keeps an honest distinction between the **working prototype** and the **full academic report scope**.
 
 **How I work**
 1. Start from a concrete technical problem  
