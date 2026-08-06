@@ -1,39 +1,27 @@
-# Manual GitHub checklist (cannot be set by API here)
+# Manual checklist (UI only)
 
-## 1. Profile bio (REQUIRED)
+## Required
 
-Current bio still contains open-to-opportunities language. Change it to:
+1. **Avatar** - upload a clear professional photo (see PASSPHOTO folder).
+2. **Pins** - pin these 6 repositories:
+   - ai-driven-chatbot-smart-tourism
+   - detection-of-fake-accounts-on-social-media
+   - blockchain-autonomous-notarization-e-id
+   - id-detection-and-penalty-mechanism
+   - certificates-achievements
+   - nikhilamaragani-jpg.github.io
+3. Hard-refresh profile: https://github.com/nikhilamaragani-jpg
+4. Confirm portfolio loads: https://nikhilamaragani-jpg.github.io/
 
-```text
-B.Tech CSE · Applied AI · ML · Building practical projects · Continuous upskilling
-```
+## Optional
 
-Path: github.com → profile photo → **Edit profile** → Bio
+5. Capture demo screenshots into each project `images/` folder.
+6. Upload certificate PDFs into `certificates-achievements` if you want files (not just text).
+7. Keep LinkedIn aligned with the same project links and student tone.
 
-## 2. Website & location
+## Already automated
 
-- Website: `https://nikhilamaragani-jpg.github.io/`
-- Location: `Hyderabad, India`
-
-## 3. Pin repositories
-
-1. ai-driven-chatbot-smart-tourism  
-2. detection-of-fake-accounts-on-social-media  
-3. blockchain-autonomous-notarization-e-id  
-4. id-detection-and-penalty-mechanism  
-5. certificates-achievements  
-6. nikhilamaragani-jpg.github.io  
-
-## 4. Avatar
-
-Upload a clear professional photo.
-
-## 5. Repo About (optional polish)
-
-For each project, open the gear icon next to **About** and paste description + topics from that repo’s `docs/ABOUT_TOPICS.md`. Set homepage to the portfolio URL.
-
-## 6. Certificates repo description (optional)
-
-```text
-Certificates, training & achievements | B.Tech CSE upskilling record
-```
+- Profile README content
+- Bio / website / location
+- Repo descriptions, homepage, topics
+- Portfolio website content
