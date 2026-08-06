@@ -1,27 +1,29 @@
-# Manual checklist (UI only)
+# Manual GitHub checklist (UI only)
 
-## Required
+Complete once. After this, the profile is fully presentable.
 
-1. **Avatar** - upload a clear professional photo (see PASSPHOTO folder).
-2. **Pins** - pin these 6 repositories:
-   - ai-driven-chatbot-smart-tourism
-   - detection-of-fake-accounts-on-social-media
-   - blockchain-autonomous-notarization-e-id
-   - id-detection-and-penalty-mechanism
-   - certificates-achievements
-   - nikhilamaragani-jpg.github.io
-3. Hard-refresh profile: https://github.com/nikhilamaragani-jpg
-4. Confirm portfolio loads: https://nikhilamaragani-jpg.github.io/
+## Must do
 
-## Optional
+1. **Avatar** — upload a clear professional photo  
+2. **Pin 6 repos** (Profile → Customize pins):
+   - ai-driven-chatbot-smart-tourism  
+   - detection-of-fake-accounts-on-social-media  
+   - blockchain-autonomous-notarization-e-id  
+   - id-detection-and-penalty-mechanism  
+   - certificates-achievements  
+   - nikhilamaragani-jpg.github.io  
+3. Hard-refresh: https://github.com/nikhilamaragani-jpg  
+4. Confirm site: https://nikhilamaragani-jpg.github.io/  
 
-5. Capture demo screenshots into each project `images/` folder.
-6. Upload certificate PDFs into `certificates-achievements` if you want files (not just text).
-7. Keep LinkedIn aligned with the same project links and student tone.
+## Already automated (do not redo unless broken)
 
-## Already automated
+- Profile README, bio, name, website, location  
+- Project READMEs, topics, descriptions, homepage  
+- Academic PDFs under each repo `docs/reports/`  
+- Portfolio site redesign  
 
-- Profile README content
-- Bio / website / location
-- Repo descriptions, homepage, topics
-- Portfolio website content
+## Optional later (when you learn new skills)
+
+- New project repo + link on profile + portfolio  
+- Demo screenshots in each `images/` folder  
+- Certificate PDF files under `certificates-achievements/files/`  
