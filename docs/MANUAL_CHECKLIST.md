@@ -1,21 +1,25 @@
-# Manual steps for creative profile (from GITHUB PROFILE guides)
+# Manual GitHub checklist (UI only)
+
+Complete once. After this, the profile is fully presentable.
 
 ## Must do
 
-1. **Avatar** — clear professional photo  
-2. **Pin 6 repos** on your profile  
-3. **Snake Action permissions**  
-   Repo `nikhilamaragani-jpg/nikhilamaragani-jpg` → Settings → Actions → General →  
-   Workflow permissions → **Read and write permissions** → Save  
-4. **Run snake once**  
-   Actions → Generate Snake Animation → Run workflow  
-5. Hard-refresh profile (Ctrl+F5)
+1. **Avatar** - upload a clear professional photo (use images from PORTIFOLIO PROFILE PICS)
+2. **Pin 6 repos** (Profile > Customize pins):
+   - ai-driven-chatbot-smart-tourism
+   - detection-of-fake-accounts-on-social-media
+   - blockchain-autonomous-notarization-e-id
+   - id-detection-and-penalty-mechanism
+   - certificates-achievements
+   - nikhilamaragani-jpg.github.io
+3. Hard-refresh profile: https://github.com/nikhilamaragani-jpg
+4. Confirm site: https://nikhilamaragani-jpg.github.io/
+5. (Optional) Self-host stats on Vercel if public cards rate-limit (Setup Guide Phase 2)
 
-## Optional (guide Phase 2 — stats never rate-limit)
+## Already done
 
-Self-host `anuraghazra/github-readme-stats` on Vercel with a classic PAT (`repo` scope) if public stats cards show rate-limit errors. See `GitHub-Profile-Setup-Guide.pdf` in your GITHUB PROFILE folder.
-
-## Facts locked in content
-
-- Graduated **2026**  
-- CGPA **6.9 / 10**  
+- Dual-theme dithered banner (dark.svg / light.svg) from your professional photo
+- Typing header, tech badges, projects, stats, streak, trophies, activity graph
+- Contribution snake (output branch + workflow green)
+- Portfolio website with photo, particles, typing hero, projects
+- Bio: Graduated 2026 | CGPA 6.9 | Applied AI | ML

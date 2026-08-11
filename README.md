@@ -2,9 +2,9 @@
 
 <!-- dual-theme banner (Setup Guide Phase 1) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/light.svg" />
-  <img alt="Amaragani Nikhil Sai — profile banner" width="100%" src="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/light.svg?v=2" />
+  <img alt="Amaragani Nikhil Sai — profile banner" width="100%" src="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/dark.svg?v=2" />
 </picture>
 
 <br/>
