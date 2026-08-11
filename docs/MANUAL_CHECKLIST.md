@@ -1,29 +1,16 @@
-# Manual GitHub checklist (UI only)
+# Manual checklist
 
-Complete once. After this, the profile is fully presentable.
+## Must do once
 
-## Must do
+1. **Avatar** — professional photo  
+2. **Pin 6 repos** on profile  
+3. **Actions write permission** for snake:  
+   `nikhilamaragani-jpg/nikhilamaragani-jpg` → Settings → Actions → General →  
+   Workflow permissions → **Read and write** → Save  
+4. Actions → **Generate Snake Animation** → Run workflow  
+5. Hard-refresh profile after snake is green  
 
-1. **Avatar** — upload a clear professional photo  
-2. **Pin 6 repos** (Profile → Customize pins):
-   - ai-driven-chatbot-smart-tourism  
-   - detection-of-fake-accounts-on-social-media  
-   - blockchain-autonomous-notarization-e-id  
-   - id-detection-and-penalty-mechanism  
-   - certificates-achievements  
-   - nikhilamaragani-jpg.github.io  
-3. Hard-refresh: https://github.com/nikhilamaragani-jpg  
-4. Confirm site: https://nikhilamaragani-jpg.github.io/  
+## Corrections applied in content
 
-## Already automated (do not redo unless broken)
-
-- Profile README, bio, name, website, location  
-- Project READMEs, topics, descriptions, homepage  
-- Academic PDFs under each repo `docs/reports/`  
-- Portfolio site redesign  
-
-## Optional later (when you learn new skills)
-
-- New project repo + link on profile + portfolio  
-- Demo screenshots in each `images/` folder  
-- Certificate PDF files under `certificates-achievements/files/`  
+- Graduated **2026** (not "expected May 2026")  
+- CGPA **6.9 / 10** (not 7.0)  
