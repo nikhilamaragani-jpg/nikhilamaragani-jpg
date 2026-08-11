@@ -2,9 +2,9 @@
 
 <!-- dual-theme banner (Setup Guide Phase 1) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/dark.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/light.svg?v=2" />
-  <img alt="Amaragani Nikhil Sai — profile banner" width="100%" src="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/dark.svg?v=2" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/light.svg?v=3" />
+  <img alt="Amaragani Nikhil Sai — profile banner" width="100%" src="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/dark.svg?v=3" />
 </picture>
 
 <br/>
@@ -208,7 +208,7 @@ Detect → rules → decision → audit log. Confidence-aware outcomes with a CV
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/output/github-snake-dark.svg?v=3" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/output/github-snake.svg" />
 </picture>
