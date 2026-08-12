@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- dual-theme banner (Setup Guide Phase 1) -->
+<!-- dual-theme banner · Setup Guide Phase 1 · Master Prompt palette -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/dark.svg?v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/light.svg?v=3" />
-  <img alt="Amaragani Nikhil Sai — profile banner" width="100%" src="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/dark.svg?v=3" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/dark.svg?v=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/light.svg?v=4" />
+  <img alt="Amaragani Nikhil Sai — profile banner" width="100%" src="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/dark.svg?v=4" />
 </picture>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=26&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&width=820&lines=Amaragani+Nikhil+Sai;B.Tech+CSE+%C2%B7+Applied+AI+%26+ML;Build+systems.+Measure+honestly.)](https://github.com/nikhilamaragani-jpg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Amaragani+Nikhil+Sai;B.Tech+CSE+%C2%B7+Applied+AI+%26+ML;Student+upskilling+%C2%B7+Building+in+public)](https://github.com/nikhilamaragani-jpg)
 
 ![Views](https://komarev.com/ghpvc/?username=nikhilamaragani-jpg&color=a78bfa&style=flat-square&label=profile+views)
 ![Followers](https://img.shields.io/github/followers/nikhilamaragani-jpg?style=flat-square&color=22d3ee&label=followers)
@@ -22,7 +22,7 @@
 [![Email](https://img.shields.io/badge/Email-0A101F?style=for-the-badge&labelColor=0A101F&color=10B981&logo=gmail&logoColor=10B981)](mailto:nikhilamaragani@gmail.com)
 [![Location](https://img.shields.io/badge/Hyderabad%2C%20India-0A101F?style=for-the-badge&labelColor=0A101F&color=A78BFA)](https://github.com/nikhilamaragani-jpg)
 
-**B.Tech CSE · Graduated 2026 · CGPA 6.9 · SIIET (JNTUH)**
+**B.Tech CSE · Graduated 2026 · CGPA 6.9 · SIIET (JNTUH) · Roll 22X31A0513**
 
 </div>
 
@@ -30,14 +30,14 @@
 
 ## About
 
-I'm **Amaragani Nikhil Sai** — a Computer Science graduate who builds practical AI systems with clean structure and clear documentation.
+I'm **Amaragani Nikhil Sai** — a Computer Science graduate focused on **applied AI**, **machine learning**, and **intelligent detection systems**.
 
-I care about the full loop: **problem → design → runnable demo → honest write-up**. My projects live in applied AI, machine learning, and intelligent detection — tourism chatbots, classification pipelines, integrity systems, and automation workflows.
+I treat learning as shipping: clean structure, runnable demos, and honest write-ups. Academic reports capture research depth; GitHub repos capture what you can clone and run today.
 
-- Ship demos people can clone and run  
-- Prefer modular packages over one-off scripts  
-- Separate *what works today* from *report vision*  
-- Keep learning in public  
+- Build modular Python systems (not one-off scripts)
+- Prefer evaluation, audit logs, and clear docs
+- Separate *report vision* from *working prototype*
+- Upskill in public — AI trainings, workshops, project craft
 
 ---
 
@@ -54,7 +54,7 @@ I care about the full loop: **problem → design → runnable demo → honest wr
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP%20%2F%20Chatbots-7C3AED?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG--style%20retrieval-22D3EE?style=for-the-badge&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG--style%20retrieval-22D3EE?style=for-the-badge)
 
 ### Engineering · Tools
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -68,13 +68,13 @@ I care about the full loop: **problem → design → runnable demo → honest wr
 
 ## AI / ML focus
 
-| Domain | Level | Details |
-|--------|-------|---------|
+| Domain | Level | What I practice |
+|--------|-------|-----------------|
 | Conversational AI | Project | Intent routing, knowledge retrieval, FastAPI chat services |
 | Classification / ML | Project | Feature engineering, multi-model training, F1 evaluation |
-| Trust & integrity | Project | Hashing, ledger records, verification workflows |
-| Automation | Project | Rules engines, audit logs, CV-ready interfaces |
-| Analytics | Practice | Power BI dashboards, data presentation |
+| Trust & integrity | Project | Hashing, ledger records, MATCH/MISMATCH verification |
+| Automation | Project | Rules engines, audit logs, CV-ready detector interfaces |
+| Analytics | Practice | Power BI dashboards, clear data presentation |
 
 ---
 
@@ -84,14 +84,14 @@ I care about the full loop: **problem → design → runnable demo → honest wr
 <summary><b>01 · AI Chatbot for Smart Tourism</b> — Major Project · 2025–26</summary>
 <br/>
 
-Smart-tourism conversational system with RAG-style retrieval, intent fallback, SQLite history, CLI + FastAPI, Docker. Report includes 6A tourism framing and full architecture; the repo is the offline runnable core.
+Smart-tourism conversational system with **RAG-style retrieval**, intent fallback, SQLite history, CLI + FastAPI, Docker. Academic report includes 6A tourism framing; the repo is the **offline runnable core**.
 
-| Stack | Impact |
-|-------|--------|
-| Python · FastAPI · scikit-learn · SQLite · Docker | Major project demo + academic report PDF |
+| Stack | Evidence |
+|-------|----------|
+| Python · FastAPI · scikit-learn · SQLite · Docker | Demo + report PDF + tests |
 
 **Guide:** Ms. K. Mounika · **Roll:** 22X31A0513  
-[Repository](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism) · [Demo](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism/blob/main/docs/DEMO.md) · [Walkthrough](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism/blob/main/docs/INTERVIEW.md) · [Report PDF](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism/blob/main/docs/reports/Major_Project_Smart_Tourism_Chatbot_Report.pdf)
+[Repository](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism) · [Demo](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism/blob/main/docs/DEMO.md) · [Interview](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism/blob/main/docs/INTERVIEW.md) · [Report PDF](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism/blob/main/docs/reports/Major_Project_Smart_Tourism_Chatbot_Report.pdf)
 
 </details>
 
@@ -99,10 +99,10 @@ Smart-tourism conversational system with RAG-style retrieval, intent fallback, S
 <summary><b>02 · Fake Account Detection</b> — Real-time Project · 2023–24</summary>
 <br/>
 
-ML pipeline that turns profile signals into risk labels — multi-model training, F1-aware selection, metrics export, batch scoring practice.
+ML pipeline from profile signals → risk labels: multi-model training, F1-aware selection, metrics export, batch scoring practice.
 
-| Stack | Impact |
-|-------|--------|
+| Stack | Evidence |
+|-------|----------|
 | Python · Pandas · scikit-learn · SQLite | End-to-end classification + audit trail |
 
 **Guide:** Mrs. J. Pujitha  
@@ -116,8 +116,8 @@ ML pipeline that turns profile signals into risk labels — multi-model training
 
 Integrity-first notarization: SHA-256 fingerprints, ledger records, MATCH/MISMATCH verification. Industry mentoring with Conscience Technologies.
 
-| Stack | Impact |
-|-------|--------|
+| Stack | Evidence |
+|-------|----------|
 | Python · hashlib · SQLite · Docker | Trust / digital identity prototype |
 
 **Guide:** Ch. Prabhakar  
@@ -129,10 +129,10 @@ Integrity-first notarization: SHA-256 fingerprints, ledger records, MATCH/MISMAT
 <summary><b>04 · ID Detection & Penalty Workflow</b></summary>
 <br/>
 
-Detect → rules → decision → audit log. Confidence-aware outcomes with a CV-ready detector interface.
+Detect → rules → decision → audit log. Confidence-aware outcomes with a CV-ready detector interface for later vision models.
 
-| Stack | Impact |
-|-------|--------|
+| Stack | Evidence |
+|-------|----------|
 | Python · rules engine · SQLite | Policy + automation design |
 
 [Repository](https://github.com/nikhilamaragani-jpg/id-detection-and-penalty-mechanism) · [Demo](https://github.com/nikhilamaragani-jpg/id-detection-and-penalty-mechanism/blob/main/docs/DEMO.md)
@@ -143,13 +143,15 @@ Detect → rules → decision → audit log. Confidence-aware outcomes with a CV
 
 ## Training & exposure
 
-| Role / program | Detail |
-|----------------|--------|
+| Program | Detail |
+|---------|--------|
 | **AI Intern — Agrasta Academy** | 2 months · preprocessing, training, evaluation |
 | **Industrial Training in AI — Agrasta** | 2 months · ML lifecycle practice |
 | **Conscience Technologies** | Apr–May 2025 · notarization mini project mentoring |
-| **Workshops** | Power BI · Python with AI · Summer of AI |
+| **Workshops** | Power BI · Python with AI · Summer of AI offer |
 | **Volunteer — Student Tribe** | Engagement & coordination |
+
+[Certificates repository](https://github.com/nikhilamaragani-jpg/certificates-achievements)
 
 ---
 
@@ -161,16 +163,7 @@ Detect → rules → decision → audit log. Confidence-aware outcomes with a CV
 | Intermediate (MPC) | Telangana State Board | 784 marks |
 | SSC | — | CGPA 9.3 / 10 |
 
----
-
-## Certifications & workshops
-
-![Power BI](https://img.shields.io/badge/Power%20BI%20Workshop-Office%20Master-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Python AI](https://img.shields.io/badge/Python%20with%20AI-Office%20Master-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI Intern](https://img.shields.io/badge/AI%20Internship-Agrasta-10B981?style=flat-square)
-![AI Training](https://img.shields.io/badge/AI%20Industrial%20Training-Agrasta-22D3EE?style=flat-square)
-
-[Full certificates repo →](https://github.com/nikhilamaragani-jpg/certificates-achievements)
+**Coursework:** DSA · OOP · DBMS · OS · Networks · Python · AI · ML
 
 ---
 
@@ -178,18 +171,24 @@ Detect → rules → decision → audit log. Confidence-aware outcomes with a CV
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhilamaragani-jpg&show_icons=true&count_private=true&hide_rank=true&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilamaragani-jpg&layout=compact&langs_count=6&hide_border=true&title_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Top languages" />
+<!-- streak full width · dual theme (arifhaxn-style) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=nikhilamaragani-jpg&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&title_color=A78BFA&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=nikhilamaragani-jpg&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&title_color=0891B2&card_width=1180" alt="GitHub streak" />
+</picture>
 
 <br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=nikhilamaragani-jpg&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&title_color=A78BFA" alt="Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhilamaragani-jpg&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilamaragani-jpg&layout=compact&langs_count=6&hide_border=true&title_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Top languages" />
 
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=nikhilamaragani-jpg&theme=onedark&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 
 </div>
+
+> `hide_rank=true` — rank is stars-weighted and misleading for newer accounts (Setup Guide).
 
 ---
 
@@ -208,7 +207,7 @@ Detect → rules → decision → audit log. Confidence-aware outcomes with a CV
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/output/github-snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/output/github-snake.svg" />
 </picture>
@@ -223,10 +222,10 @@ Detect → rules → decision → audit log. Confidence-aware outcomes with a CV
 learning:
   - applied AI systems
   - stronger evaluation practices
-  - cleaner packaging & docs
+  - cleaner packaging & documentation
 building:
   - practical project demos
-  - portfolio quality
+  - portfolio craft quality
 exploring:
   - APIs, Docker, tooling that ships
 principle: runnable work · honest scope · continuous improvement

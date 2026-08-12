@@ -1,25 +1,27 @@
 # Manual GitHub checklist (UI only)
 
-Complete once. After this, the profile is fully presentable.
+## Must do once
 
-## Must do
-
-1. **Avatar** - upload a clear professional photo (use images from PORTIFOLIO PROFILE PICS)
-2. **Pin 6 repos** (Profile > Customize pins):
+1. **Avatar** — upload `C:\Users\nikhi\github-setup\creative-refresh\GITHUB_AVATAR_UPLOAD.jpg`
+   - https://github.com/settings/profile
+2. **Pin 6 repos** (Profile → Customize pins):
    - ai-driven-chatbot-smart-tourism
    - detection-of-fake-accounts-on-social-media
    - blockchain-autonomous-notarization-e-id
    - id-detection-and-penalty-mechanism
    - certificates-achievements
    - nikhilamaragani-jpg.github.io
-3. Hard-refresh profile: https://github.com/nikhilamaragani-jpg
+3. Hard-refresh: https://github.com/nikhilamaragani-jpg
 4. Confirm site: https://nikhilamaragani-jpg.github.io/
-5. (Optional) Self-host stats on Vercel if public cards rate-limit (Setup Guide Phase 2)
 
-## Already done
+## Optional
 
-- Dual-theme dithered banner (dark.svg / light.svg) from your professional photo
-- Typing header, tech badges, projects, stats, streak, trophies, activity graph
-- Contribution snake (output branch + workflow green)
-- Portfolio website with photo, particles, typing hero, projects
+- Self-host github-readme-stats on Vercel if public cards rate-limit (Setup Guide Phase 2)
+- Add certificate PDF binaries under `certificates-achievements/files/`
+
+## Already done by automation
+
+- Dual-theme dithered banner, typing header, stats, snake, projects
+- Portfolio with photo, terminal, sections
+- Project demos/docs; tests green on core packages
 - Bio: Graduated 2026 | CGPA 6.9 | Applied AI | ML
