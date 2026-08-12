@@ -1,16 +1,16 @@
 <!--
-  PUBLIC PROFILE README — visible to EVERYONE at:
-  https://github.com/nikhilamaragani-jpg
-  (No login required. Not the home "dashboard" feed — open your PROFILE page.)
+  PUBLIC PROFILE README (Overview tab) — visible to EVERYONE at:
+  https://github.com/nikhilamaragani-jpg  ← open this URL (Overview), NOT "Repositories" tab
+  No login required. Banner + snake + stats show on Overview for all visitors.
 -->
 
 <div align="center">
 
 <!-- ========== PUBLIC BLOCK BANNER (dark/light) ========== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/nikhilamaragani-jpg/nikhilamaragani-jpg@main/dark.svg?v=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/nikhilamaragani-jpg/nikhilamaragani-jpg@main/light.svg?v=6" />
-  <img alt="Amaragani Nikhil Sai — block dither profile banner" width="100%" src="https://cdn.jsdelivr.net/gh/nikhilamaragani-jpg/nikhilamaragani-jpg@main/dark.svg?v=6" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/nikhilamaragani-jpg/nikhilamaragani-jpg@main/dark.svg?v=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/nikhilamaragani-jpg/nikhilamaragani-jpg@main/light.svg?v=7" />
+  <img alt="Amaragani Nikhil Sai — block dither profile banner" width="100%" src="https://cdn.jsdelivr.net/gh/nikhilamaragani-jpg/nikhilamaragani-jpg@main/dark.svg?v=7" />
 </picture>
 
 <br/>
@@ -157,8 +157,8 @@ Detect → rules → decision → audit log · CV-ready detector interface.
 | Item | Detail |
 |------|--------|
 | **B.Tech CSE** | SIIET (JNTUH) · **Graduated 2026** · **CGPA 6.9 / 10** · Roll 22X31A0513 |
-| Intermediate | Telangana State Board · 784 marks |
-| SSC | CGPA 9.3 / 10 |
+| Intermediate (MPC) | Telangana State Board · **784** marks |
+| **SSC** | **Dilsukhnagar Public School**, Hyderabad · **CGPA 9.3 / 10** |
 | AI Intern | Agrasta Academy · 2 months |
 | Industrial AI | Agrasta Academy · 2 months |
 | Industry mini | Conscience Technologies · Apr–May 2025 |
