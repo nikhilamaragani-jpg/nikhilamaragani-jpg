@@ -8,9 +8,9 @@
 
 <!-- ========== PUBLIC BLOCK BANNER (dark/light) ========== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/dark.svg?v=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/light.svg?v=5" />
-  <img alt="Amaragani Nikhil Sai — block dither profile banner" width="100%" src="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/dark.svg?v=5" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/nikhilamaragani-jpg/nikhilamaragani-jpg@main/dark.svg?v=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/nikhilamaragani-jpg/nikhilamaragani-jpg@main/light.svg?v=6" />
+  <img alt="Amaragani Nikhil Sai — block dither profile banner" width="100%" src="https://cdn.jsdelivr.net/gh/nikhilamaragani-jpg/nikhilamaragani-jpg@main/dark.svg?v=6" />
 </picture>
 
 <br/>
@@ -50,7 +50,7 @@ I treat learning as shipping: clean structure, runnable demos, and honest write-
 ## Featured project blocks
 
 <div align="center">
-  <img width="100%" alt="Featured project blocks" src="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/projects_blocks.svg?v=5" />
+  <img width="100%" alt="Featured project blocks" src="https://cdn.jsdelivr.net/gh/nikhilamaragani-jpg/nikhilamaragani-jpg@main/projects_blocks.svg?v=6" />
 </div>
 
 <details open>
@@ -133,9 +133,9 @@ Detect → rules → decision → audit log · CV-ready detector interface.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/assets/github-snake-dark.svg?v=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/assets/github-snake.svg?v=5" />
-  <img alt="Snake eating my contributions — public animation" width="100%" src="https://raw.githubusercontent.com/nikhilamaragani-jpg/nikhilamaragani-jpg/main/assets/github-snake.svg?v=5" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/nikhilamaragani-jpg/nikhilamaragani-jpg@main/assets/github-snake-dark.svg?v=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/nikhilamaragani-jpg/nikhilamaragani-jpg@main/assets/github-snake.svg?v=6" />
+  <img alt="Snake eating my contributions — public animation" width="100%" src="https://cdn.jsdelivr.net/gh/nikhilamaragani-jpg/nikhilamaragani-jpg@main/assets/github-snake.svg?v=6" />
 </picture>
 
 </div>
