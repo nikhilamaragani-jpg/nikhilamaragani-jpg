@@ -44,7 +44,8 @@ Workshop artifacts covering sales and media-analysis examples. These are learnin
 | 4 | Python, SQL, data analysis, and visualization | Planned |
 | 5 | Capstone projects, advanced BI, and job preparation | Planned |
 
-**Current learning focus:** Excel · SQL · Python · Power BI · analytical problem-solving  
+**Current learning focus:** Excel · SQL · Python · Power BI · analytical problem-solving
+
 I distinguish planned study from demonstrated project experience and will update this profile as I complete each stage.
 
 ## Credentials and education
