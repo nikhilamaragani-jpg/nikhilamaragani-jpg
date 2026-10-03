@@ -9,6 +9,9 @@
 - B.Tech CSE — SIIET (JNTUH) | Graduated 2026 | CGPA 6.9/10 | Roll 22X31A0513
 - Intermediate (MPC): Telangana State Board · 784 marks
 - SSC: Dilsukhnagar Public School, Hyderabad · CGPA 9.3/10
-- Projects: Smart Tourism Chatbot · Fake Account Detection · Blockchain+eID · ID Detection & Penalty
-- Training: Agrasta AI Intern + Industrial AI · Conscience Technologies · Power BI / Python-AI workshops
-- Tone: student upskilling, practical systems, honest scope
+- Career focus: Data Analyst | BI Analyst | Power BI Analyst
+- Core skills: Excel, SQL, Python, Pandas, NumPy, Power BI, KPI analysis, dashboard storytelling
+- Featured project: Retail Performance & Customer Insights Dashboard
+- Milestone: IBM Introduction to Data Analytics — completed as Phase 1 of the roadmap
+- Training: IBM Data Analyst foundation, Power BI learning, Python/AI workshops
+- Tone: professional, business-focused, portfolio-driven, analytics-ready

@@ -1,25 +1,31 @@
-# LinkedIn helper (optional)
+# LinkedIn helper (data analyst portfolio)
 
-Student + upskilling tone. No open-to-work or sponsorship language.
+Professional analytics-focused tone for data roles.
 
 ## Headline
 
 ```text
-B.Tech CSE | Applied AI · Machine Learning | Building practical projects
+Data Analyst | SQL | Excel | Power BI | Python | Business Intelligence
 ```
 
 ## About
 
 ```text
-Final-year B.Tech Computer Science student focused on continuous upskilling in applied AI and machine learning.
+Computer Science graduate focused on building a career in Data Analytics and Business Intelligence.
 
-I build and document practical projects end to end — problem framing, modular design, runnable demos, and clear technical write-ups. Work spans conversational systems, ML classification, digital identity concepts, and automation workflows.
+I completed IBM's Introduction to Data Analytics as the first milestone in my data career roadmap and am continuing to deepen my skills in Excel, SQL, Python, and Power BI. I work to clean data, analyze trends, create KPI dashboards, and translate business questions into actionable insights.
 
-Featured projects:
-• Smart Tourism Chatbot (Major Project, 2025–26)
-• Fake Account Detection (Real-time project, 2023–24)
-• Blockchain Notarization + eID (Mini project, 2024–25)
-• ID Detection & Penalty Mechanism
+Featured portfolio work:
+• Retail Performance & Customer Insights Dashboard
+• IBM-aligned data analytics learning projects
+• Business analysis and dashboard storytelling practice
+
+Core skills:
+• Excel and data cleaning
+• SQL querying and analysis
+• Python for EDA and reporting
+• Power BI dashboard development
+• KPI tracking and business insight generation
 
 Portfolio: https://nikhilamaragani-jpg.github.io/
 GitHub: https://github.com/nikhilamaragani-jpg
@@ -27,7 +33,7 @@ GitHub: https://github.com/nikhilamaragani-jpg
 
 ## Featured (link these)
 
-1. https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism
-2. https://github.com/nikhilamaragani-jpg/detection-of-fake-accounts-on-social-media
-3. https://github.com/nikhilamaragani-jpg/blockchain-autonomous-notarization-e-id
+1. https://github.com/nikhilamaragani-jpg/nikhilamaragani-jpg/tree/main/projects/data-analyst-capstone
+2. https://github.com/nikhilamaragani-jpg/certificates-achievements
+3. https://github.com/nikhilamaragani-jpg/nikhilamaragani-jpg/blob/main/docs/DATA_ANALYST_PORTFOLIO_PROJECT.md
 4. https://nikhilamaragani-jpg.github.io/
