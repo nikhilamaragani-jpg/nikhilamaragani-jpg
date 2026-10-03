@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Amaragani+Nikhil+Sai;B.Tech+CSE+%C2%B7+Applied+AI+%26+ML;Student+upskilling+%C2%B7+Building+in+public)](https://github.com/nikhilamaragani-jpg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Amaragani+Nikhil+Sai;Entry-Level+Data+Analyst+%C2%B7+BI+Analyst;Building+an+analytics+portfolio)](https://github.com/nikhilamaragani-jpg)
 
 ![Views](https://komarev.com/ghpvc/?username=nikhilamaragani-jpg&color=a78bfa&style=flat-square&label=profile+views)
 ![Followers](https://img.shields.io/github/followers/nikhilamaragani-jpg?style=flat-square&color=22d3ee&label=followers)
@@ -36,14 +36,29 @@
 
 ## About
 
-I'm **Amaragani Nikhil Sai** — a Computer Science graduate focused on **applied AI**, **machine learning**, and **intelligent detection systems**.
+I'm **Amaragani Nikhil Sai**, a Computer Science graduate building toward **entry-level Data Analyst and BI Analyst roles**. My background also includes applied AI and machine-learning projects.
 
-I treat learning as shipping: clean structure, runnable demos, and honest write-ups. Academic reports capture research depth; GitHub repos capture what you can clone and run today.
+I treat learning as shipping: clear questions, documented assumptions, runnable examples, and honest write-ups. GitHub repos capture what you can inspect and run today.
 
-- Build modular Python systems (not one-off scripts)
-- Prefer evaluation, audit logs, and clear docs
+- Focus on analytics foundations, data quality, descriptive KPIs, and clear communication
 - Separate *report vision* from *working prototype*
-- Upskill in public — AI trainings, workshops, project craft
+- Keep project scope and evidence explicit
+- Continue learning through coursework, workshops, and documented projects
+
+---
+
+## Data analytics portfolio
+
+My current direction is **entry-level Data Analyst / BI Analyst**. The project below is a small, reproducible practice case study using synthetic data; it does not describe an insurer, real customers, or actual European market performance.
+
+- [Claims Operations: Analyst Foundations](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/projects/claims-intelligence-foundation/README.md) — a scoped exercise in defining a business question, checking data quality, summarizing descriptive KPIs, and documenting limitations.
+- [Power BI workshop dashboards](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/workshop-evidence/Power-BI-Workshop-Dashboards.pdf) — workshop artifacts: [Campfly Sales Analysis (page 1)](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/workshop-evidence/Power-BI-Workshop-Dashboards.pdf#page=1) and [Netflix Analysis (page 2)](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/workshop-evidence/Power-BI-Workshop-Dashboards.pdf#page=2).
+- **IBM — Introduction to Data Analytics**, completed October 3, 2026: [course certificate](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/certificates/IBM-Introduction-to-Data-Analytics-Coursera.pdf) · [Coursera verification](https://coursera.org/verify/E6Z1ON902KHZ). This is course 1 of the IBM Data Analyst Professional Certificate, **not** completion of the full certificate.
+- **Office Master workshops:** [Power BI certificate](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/certificates/Power-BI-Workshop-Office-Master.pdf) · [Python certificate](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/certificates/Python-Workshop-Office-Master.pdf).
+- **Agrasta Academy:** [AI internship certificate](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/certificates/Agrasta-Academy-AI-Internship-2024.pdf) (completed October–December 2024) · [AI industrial training certificate](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/certificates/Agrasta-Academy-Industrial-Training-AI.pdf).
+- [Summer of AI offer letter](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/certificates/Summer-of-AI-Internship-Offer-Letter.pdf) — offer letter only; it is not evidence of an accepted or completed internship.
+
+These links point to the certificates-and-achievements feature branch; the linked paths are intended to remain available after merge.
 
 ---
 
@@ -77,7 +92,7 @@ ML pipeline from profile signals → risk labels · multi-model training · F1 e
 <summary><b>03 · Blockchain Notarization + eID</b> — Mini Project · 2024–25</summary>
 <br/>
 
-SHA-256 fingerprints · ledger records · MATCH/MISMATCH verification · Conscience Technologies mentoring.
+SHA-256 fingerprints · ledger records · MATCH/MISMATCH verification.
 
 [Repository](https://github.com/nikhilamaragani-jpg/blockchain-autonomous-notarization-e-id) · [Demo](https://github.com/nikhilamaragani-jpg/blockchain-autonomous-notarization-e-id/blob/main/docs/DEMO.md)
 
@@ -152,17 +167,13 @@ Detect → rules → decision → audit log · CV-ready detector interface.
 
 ---
 
-## Education & training
+## Education
 
 | Item | Detail |
 |------|--------|
 | **B.Tech CSE** | SIIET (JNTUH) · **Graduated 2026** · **CGPA 6.9 / 10** · Roll 22X31A0513 |
 | Intermediate (MPC) | Telangana State Board · **784** marks |
 | **SSC** | **Dilsukhnagar Public School**, Hyderabad · **CGPA 9.3 / 10** |
-| AI Intern | Agrasta Academy · 2 months |
-| Industrial AI | Agrasta Academy · 2 months |
-| Industry mini | Conscience Technologies · Apr–May 2025 |
-| Workshops | Power BI · Python with AI · Summer of AI |
 
 [Certificates repository](https://github.com/nikhilamaragani-jpg/certificates-achievements) · [Live portfolio](https://nikhilamaragani-jpg.github.io/)
 
