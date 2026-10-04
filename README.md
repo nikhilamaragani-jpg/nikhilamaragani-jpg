@@ -1,58 +1,60 @@
 # Amaragani Nikhil Sai
 
-**Aspiring Data Analyst | Business Intelligence | Data Storytelling**
+**Aspiring Data Analyst · SQL · Excel · Python · Power BI**
 
-Computer Science graduate based in Hyderabad, India. Building toward entry-level Data Analyst and BI Analyst roles through structured study and portfolio projects. Open to suitable international opportunities, including Europe.
+Computer Science graduate in Hyderabad, India, building toward a career as a **Data Analyst Specialist**. My immediate focus is developing strong analyst fundamentals; BI, cloud analytics, and analytics engineering are future layers in that roadmap—not replacements for my primary goal.
 
-[LinkedIn](https://www.linkedin.com/in/nikhil-sai-amaragani-219115382) · [Email](mailto:nikhilamaragani@gmail.com) · [IBM course certificate](https://coursera.org/verify/E6Z1ON902KHZ)
+**Target roles:** entry-level Data Analyst · BI Analyst · Power BI Analyst
+**Location:** Hyderabad, India · Open to international opportunities, especially Europe
 
-## Profile
+[Portfolio](https://nikhilamaragani-jpg.github.io/) · [LinkedIn](https://www.linkedin.com/in/nikhil-sai-amaragani-219115382) · [Email](mailto:nikhilamaragani@gmail.com)
 
-My long-term goal is to become a **Data Analyst Specialist** with strong practical foundations in business analysis, data preparation, SQL, Python, and BI reporting. I’m progressing step by step and aim to make each stage visible through verifiable credentials and reproducible work.
-
-My first milestone is **IBM’s Introduction to Data Analytics**, completed through Coursera on October 3, 2026. This is **course 1** of the IBM Data Analyst Professional Certificate; I have not completed the full professional certificate.
-
-## Analytics work
+## Analytics portfolio
 
 ### Claims Operations: Analyst Foundations
 
-A scoped practice case study focused on framing an operational question, checking data quality, calculating descriptive KPIs, and documenting assumptions and limitations. It uses synthetic data and does not represent a real insurer, real customers, or actual European market performance.
+A practice case study in defining an operational question, reviewing data quality, calculating descriptive KPIs, and documenting assumptions and limitations. The project uses synthetic data; it does not represent a real insurer, customers, or actual European market performance.
 
-[Project brief](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/projects/claims-intelligence-foundation/README.md)
-
-### Retail Performance & Customer Insights
-
-A Python practice project that generates a synthetic retail dataset, summarizes sales performance, and produces a dashboard and business recommendations. All figures are illustrative, not real business results.
-
-[Project files](projects/data-analyst-capstone/) · [Project brief](docs/DATA_ANALYST_PORTFOLIO_PROJECT.md) · [Dashboard preview](projects/data-analyst-capstone/outputs/data_analyst_dashboard.png)
-
-![Retail analytics dashboard preview](projects/data-analyst-capstone/outputs/data_analyst_dashboard.png)
+[Project brief](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/main/projects/claims-intelligence-foundation/README.md)
 
 ### Power BI workshop dashboards
 
-Workshop artifacts covering sales and media-analysis examples. These are learning exercises, not commercial client work.
+Workshop learning artifacts for sales and media analysis—not commercial client work.
 
-[Dashboard collection](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/workshop-evidence/Power-BI-Workshop-Dashboards.pdf) · [Sales analysis](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/workshop-evidence/Power-BI-Workshop-Dashboards.pdf#page=1) · [Netflix analysis](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/workshop-evidence/Power-BI-Workshop-Dashboards.pdf#page=2)
+[Dashboard collection](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/main/workshop-evidence/Power-BI-Workshop-Dashboards.pdf) · [Sales analysis](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/main/workshop-evidence/Power-BI-Workshop-Dashboards.pdf#page=1) · [Netflix analysis](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/main/workshop-evidence/Power-BI-Workshop-Dashboards.pdf#page=2)
+
+### Retail Performance & Customer Insights
+
+A Python practice project using a generated synthetic dataset to explore retail KPIs, summarize trends, and communicate illustrative recommendations. Results are not real business performance.
+
+[Project source](projects/data-analyst-capstone/) · [Analysis brief](docs/DATA_ANALYST_PORTFOLIO_PROJECT.md) · [Dashboard preview](projects/data-analyst-capstone/outputs/data_analyst_dashboard.png)
+
+![Retail analytics dashboard preview](projects/data-analyst-capstone/outputs/data_analyst_dashboard.png)
+
+## First milestone
+
+**IBM — Introduction to Data Analytics**, completed through Coursera on **October 3, 2026**. This is **course 1 of the IBM Data Analyst Professional Certificate**, not completion of the full professional certificate.
+
+[Verify the certificate](https://coursera.org/verify/E6Z1ON902KHZ) · [Certificate file](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/main/certificates/IBM-Introduction-to-Data-Analytics-Coursera.pdf)
 
 ## Learning roadmap
 
 | Stage | Focus | Status |
 |---|---|---|
 | 1 | IBM Introduction to Data Analytics | **Completed** |
-| 2 | Excel for data analysis | Next in the IBM learning path |
-| 3 | Data visualization and dashboards | Planned |
-| 4 | Python, SQL, data analysis, and visualization | Planned |
-| 5 | Capstone projects, advanced BI, and job preparation | Planned |
+| 2 | Excel fundamentals and data preparation | Next in the IBM learning path |
+| 3 | Dashboards, Python, SQL, and exploratory analysis | Planned coursework and practice |
+| 4 | Power BI, data modeling, DAX, and business reporting | Developing through training and projects |
+| 5 | Advanced analytics, cloud, and analytics engineering | Future roadmap layers |
 
-**Current learning focus:** Excel · SQL · Python · Power BI · analytical problem-solving
+**Current study focus:** Excel · SQL · Python · Power BI
+**Analyst foundations:** business question framing · data quality · KPI selection · exploratory analysis · visualization · communicating findings
 
-I distinguish planned study from demonstrated project experience and will update this profile as I complete each stage.
+I label learning goals separately from completed credentials and demonstrated project work, and will update this profile as I complete more of the roadmap.
 
-## Credentials and education
+## Education
 
-- **IBM — Introduction to Data Analytics**, Coursera, completed October 3, 2026. [Verify certificate](https://coursera.org/verify/E6Z1ON902KHZ) · [Certificate file](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/nikhilamaragani-jpg-elite-certificates-profile/certificates/IBM-Introduction-to-Data-Analytics-Coursera.pdf)
-- **Power BI and Python workshops:** [certificates](https://github.com/nikhilamaragani-jpg/certificates-achievements/tree/nikhilamaragani-jpg-elite-certificates-profile/certificates)
-- **B.Tech in Computer Science and Engineering**, SIIET (JNTUH), graduated 2026
+**B.Tech in Computer Science and Engineering** · SIIET (JNTUH) · Graduated 2026
 
 ## Contact
 
