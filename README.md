@@ -7,7 +7,7 @@ Early-career Data Analyst and 2026 B.Tech CSE graduate building a specialist ana
 **Open to international Data Analyst, BI Analyst, and Reporting opportunities worldwide.**  
 Based in India · Open to remote work and international relocation.
 
-[Portfolio](https://nikhilamaragani-jpg.github.io/) · [LinkedIn](https://www.linkedin.com/in/nikhil-sai-amaragani-219115382) · [Email](mailto:nikhilamaragani@gmail.com)
+[Portfolio](https://nikhilamaragani-jpg.github.io/) · [LinkedIn](https://www.linkedin.com/in/amaraganinikhilsai) · [Email](mailto:nikhilamaragani@gmail.com)
 
 ---
 
