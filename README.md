@@ -31,7 +31,7 @@ The project demonstrates an integrated Data Analyst + Power BI Analyst workflow:
 - Customer review analysis
 - Geographic performance analysis
 - Evidence-based recommendations
-- Interactive 2D analysis and a restrained 3D geographic showcase
+- Interactive BI workspace with filters, click-to-filter analysis, drill-through-style detail and KPI context
 
 ### New Power BI Analyst development
 
