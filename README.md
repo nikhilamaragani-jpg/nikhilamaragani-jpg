@@ -17,7 +17,7 @@ Based in India · Open to remote work and international relocation.
 
 A real-world Data Analyst case study using the **Olist Brazilian E-Commerce Public Dataset**.
 
-The project demonstrates:
+The project demonstrates an integrated Data Analyst + Power BI Analyst workflow:
 
 - Data profiling and quality validation
 - SQL business questions and multi-table joins
@@ -35,7 +35,7 @@ The project demonstrates:
 
 ### New Power BI Analyst development
 
-The flagship project now includes a dedicated Power BI Analyst layer: reusable DAX measures, an eight-page report specification, report-ready insight cards, drill-through and tooltip design, conditional formatting guidance, accessibility standards, and a reconciliation/QA checklist. The underlying insights remain tied to the real Olist data; the final PBIX is not claimed complete until it is built and validated in Power BI Desktop.
+The flagship project now includes a live interactive BI workspace plus a native Power BI build blueprint. The public dashboard supports month range, category, state and metric slicers, click-to-filter charts, analyst narrative, drill-through-style state detail, customer intelligence, logistics/CX, geography and data-quality views. The native Power BI blueprint adds reusable DAX measures, semantic-model design, tooltips, drill-through, conditional formatting and reconciliation/QA controls. The underlying insights remain tied to the real Olist data; the final PBIX is not claimed complete until it is actually built and validated in Power BI Desktop.
 
 ### Verified baseline from the source data
 
