@@ -1,61 +1,92 @@
 # Amaragani Nikhil Sai
 
-**Aspiring Data Analyst · SQL · Excel · Python · Power BI**
+**Data Analyst | SQL · Power BI · Python · Business Intelligence**
 
-Computer Science graduate in Hyderabad, India, building toward a career as a **Data Analyst Specialist**. My immediate focus is developing strong analyst fundamentals; BI, cloud analytics, and analytics engineering are future layers in that roadmap—not replacements for my primary goal.
+Early-career Data Analyst and 2026 B.Tech CSE graduate building a specialist analytics career through reproducible projects, dashboards, and business-focused analysis.
 
-**Target roles:** entry-level Data Analyst · BI Analyst · Power BI Analyst
-**Location:** Hyderabad, India · Open to international opportunities, especially Europe
+**Open to international Data Analyst, BI Analyst, and Reporting opportunities worldwide.**  
+Based in India · Open to remote work and international relocation.
 
 [Portfolio](https://nikhilamaragani-jpg.github.io/) · [LinkedIn](https://www.linkedin.com/in/nikhil-sai-amaragani-219115382) · [Email](mailto:nikhilamaragani@gmail.com)
 
-## Analytics portfolio
+---
 
-### Claims Operations: Analyst Foundations
+## Featured real-data project
 
-A practice case study in defining an operational question, reviewing data quality, calculating descriptive KPIs, and documenting assumptions and limitations. The project uses synthetic data; it does not represent a real insurer, customers, or actual European market performance.
+### E-Commerce Operations & Customer Intelligence
 
-[Project brief](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/main/projects/claims-intelligence-foundation/README.md)
+A real-world Data Analyst case study using the **Olist Brazilian E-Commerce Public Dataset**.
 
-### Power BI workshop dashboards
+The project demonstrates:
 
-Workshop learning artifacts for sales and media analysis—not commercial client work.
+- Data profiling and quality validation
+- SQL business questions and multi-table joins
+- Python / Pandas analysis
+- Data modeling and metric definitions
+- Power BI / DAX report design
+- Customer and RFM analysis
+- Product/category performance
+- Delivery and logistics analysis
+- Customer review analysis
+- Geographic analytics
+- Evidence-based recommendations
+- Interactive 2D analysis and a restrained 3D geographic showcase
 
-[Dashboard collection](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/main/workshop-evidence/Power-BI-Workshop-Dashboards.pdf) · [Sales analysis](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/main/workshop-evidence/Power-BI-Workshop-Dashboards.pdf#page=1) · [Netflix analysis](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/main/workshop-evidence/Power-BI-Workshop-Dashboards.pdf#page=2)
+### Verified baseline from the source data
 
-### Retail Performance & Customer Insights
+| Metric | Observed |
+|---|---:|
+| Merchandise revenue | R$13.49M |
+| Sales-eligible orders | 98,199 |
+| Unique customers | 94,983 |
+| Average order value | R$137.42 |
+| Repeat-customer rate | 3.04% |
+| Average review score | 4.07 / 5 |
+| On-time delivery | 93.23% |
 
-A Python practice project using a generated synthetic dataset to explore retail KPIs, summarize trends, and communicate illustrative recommendations. Results are not real business performance.
+These values describe the historical Olist dataset; they are not presented as current market statistics.
 
-[Project source](projects/data-analyst-capstone/) · [Analysis brief](docs/DATA_ANALYST_PORTFOLIO_PROJECT.md) · [Dashboard preview](projects/data-analyst-capstone/outputs/data_analyst_dashboard.png)
+[Open the live analysis](https://nikhilamaragani-jpg.github.io/projects/ecommerce-operations-intelligence/dashboard/) · [Read the project methodology](https://github.com/nikhilamaragani-jpg/nikhilamaragani-jpg.github.io/tree/main/projects/ecommerce-operations-intelligence)
 
-![Retail analytics dashboard preview](projects/data-analyst-capstone/outputs/data_analyst_dashboard.png)
+---
 
-## First milestone
+## Core Data Analyst capabilities
 
-**IBM — Introduction to Data Analytics**, completed through Coursera on **October 3, 2026**. This is **course 1 of the IBM Data Analyst Professional Certificate**, not completion of the full professional certificate.
+**Analysis:** business questions · data quality · KPI design · exploratory analysis · metric interpretation
 
-[Verify the certificate](https://coursera.org/verify/E6Z1ON902KHZ) · [Certificate file](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/main/certificates/IBM-Introduction-to-Data-Analytics-Coursera.pdf)
+**Tools:** SQL · Python · Pandas · NumPy · Excel · Power BI · Power Query · DAX · Git/GitHub
 
-## Learning roadmap
+**Developing next:** advanced SQL · statistics · advanced Power BI · GenAI for analytics · BigQuery/cloud analytics · dbt/analytics engineering
 
-| Stage | Focus | Status |
-|---|---|---|
-| 1 | IBM Introduction to Data Analytics | **Completed** |
-| 2 | Excel fundamentals and data preparation | Next in the IBM learning path |
-| 3 | Dashboards, Python, SQL, and exploratory analysis | Planned coursework and practice |
-| 4 | Power BI, data modeling, DAX, and business reporting | Developing through training and projects |
-| 5 | Advanced analytics, cloud, and analytics engineering | Future roadmap layers |
+The specialist core is **Data Analyst first**. BI, advanced analytics, cloud, analytics engineering, and later Data Engineering are progression layers rather than separate identities.
 
-**Current study focus:** Excel · SQL · Python · Power BI
-**Analyst foundations:** business question framing · data quality · KPI selection · exploratory analysis · visualization · communicating findings
+---
 
-I label learning goals separately from completed credentials and demonstrated project work, and will update this profile as I complete more of the roadmap.
+## Learning milestone
 
-## Education
+**IBM — Introduction to Data Analytics, Course 1** · Completed October 3, 2026
 
-**B.Tech in Computer Science and Engineering** · SIIET (JNTUH) · Graduated 2026
+This is the first course of the IBM Data Analyst Professional Certificate, not completion of the full professional certificate.
 
-## Contact
+[Verify credential](https://coursera.org/verify/E6Z1ON902KHZ)
 
-[LinkedIn](https://www.linkedin.com/in/nikhil-sai-amaragani-219115382) · [Email](mailto:nikhilamaragani@gmail.com)
+---
+
+## Supporting technical projects
+
+My earlier Computer Science work remains public as supporting technical evidence:
+
+- [AI-Driven Smart Tourism Chatbot](https://github.com/nikhilamaragani-jpg/ai-driven-chatbot-smart-tourism) — Python, FastAPI, RAG-style retrieval, evaluation
+- [Fake Account Detection](https://github.com/nikhilamaragani-jpg/detection-of-fake-accounts-on-social-media) — Python, scikit-learn, classification, evaluation
+- [Blockchain Notarization & eID](https://github.com/nikhilamaragani-jpg/blockchain-autonomous-notarization-e-id) — Python, SQLite, audit analytics
+- [ID Detection & Penalty Mechanism](https://github.com/nikhilamaragani-jpg/id-detection-and-penalty-mechanism) — rules, SQLite, audit data
+
+These are academic/technical projects and are not presented as professional client work.
+
+---
+
+## Roadmap
+
+**Data Analyst Specialist → BI / Power BI Analyst → Advanced Analytics → Cloud Analytics → Analytics Engineering → Data Engineering**
+
+The portfolio is evidence-first: completed learning is labeled as learning, synthetic projects are labeled synthetic, and real-data project results are generated from reproducible analysis.
