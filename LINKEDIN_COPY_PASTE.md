@@ -21,7 +21,7 @@ The project covers:
 - Geographic performance
 - SQL analysis and Python/Pandas
 - Power BI semantic-model and DAX design
-- Interactive slicers, cross-filtering, metric switching and drill-through-style analysis
+- Dashboard filters, cross-filtering, metric selection and drill-through-style analysis
 - Dashboard storytelling, tooltips, conditional formatting, and QA
 
 Verified project results include R$13.49M merchandise revenue across 98,199 sales-eligible orders, 94,983 unique customers, a 3.04% observed repeat-customer rate, 93.23% on-time delivery, and an average review score of 4.07/5. These are historical Olist dataset results, not current market statistics.
@@ -49,7 +49,7 @@ E-Commerce Operations & Customer Intelligence | Power BI + SQL + Python
 
 Real-data e-commerce analytics case study using the Olist Brazilian E-Commerce Public Dataset. Built a reproducible SQL/Python pipeline, controlled analytical model, DAX measure layer, interactive dashboard specification, and evidence-based insight layer covering revenue, customers, products, delivery, reviews, and geography.
 
-Interactive live dashboard:
+Dashboard suite:
 https://nikhilamaragani-jpg.github.io/projects/ecommerce-operations-intelligence/dashboard/
 
 Repository:
