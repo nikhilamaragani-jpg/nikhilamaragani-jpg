@@ -22,15 +22,20 @@ The project demonstrates:
 - Data profiling and quality validation
 - SQL business questions and multi-table joins
 - Python / Pandas analysis
-- Data modeling and metric definitions
+- Controlled semantic-model design
 - Power BI / DAX report design
+- KPI and metric governance
 - Customer and RFM analysis
 - Product/category performance
 - Delivery and logistics analysis
 - Customer review analysis
-- Geographic analytics
+- Geographic performance analysis
 - Evidence-based recommendations
 - Interactive 2D analysis and a restrained 3D geographic showcase
+
+### New Power BI Analyst development
+
+The flagship project now includes a dedicated Power BI Analyst layer: reusable DAX measures, an eight-page report specification, report-ready insight cards, drill-through and tooltip design, conditional formatting guidance, accessibility standards, and a reconciliation/QA checklist. The underlying insights remain tied to the real Olist data; the final PBIX is not claimed complete until it is built and validated in Power BI Desktop.
 
 ### Verified baseline from the source data
 
@@ -46,7 +51,7 @@ The project demonstrates:
 
 These values describe the historical Olist dataset; they are not presented as current market statistics.
 
-[Open the live analysis](https://nikhilamaragani-jpg.github.io/projects/ecommerce-operations-intelligence/dashboard/) · [Read the project methodology](https://github.com/nikhilamaragani-jpg/nikhilamaragani-jpg.github.io/tree/main/projects/ecommerce-operations-intelligence)
+[Open the live analysis](https://nikhilamaragani-jpg.github.io/projects/ecommerce-operations-intelligence/dashboard/) · [Read the project methodology](https://github.com/nikhilamaragani-jpg/nikhilamaragani-jpg.github.io/tree/main/projects/ecommerce-operations-intelligence) · [Power BI Analyst report](https://github.com/nikhilamaragani-jpg/ecommerece-operations-customer-intelligence/blob/main/docs/job-platform-project-report.md)
 
 ---
 
