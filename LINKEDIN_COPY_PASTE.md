@@ -37,7 +37,7 @@ I am open to international Data Analyst, BI Analyst, Power BI Analyst, and Repor
 
 Portfolio: https://nikhilamaragani-jpg.github.io/
 GitHub: https://github.com/nikhilamaragani-jpg
-LinkedIn: https://www.linkedin.com/in/amaraganinikhilsai
+LinkedIn: https://www.linkedin.com/in/nikhil-sai-amaragani-219115382
 
 #DataAnalytics #DataAnalyst #PowerBI #SQL #Python #BusinessIntelligence
 
