@@ -15,7 +15,7 @@ Based in India · Open to remote work and international relocation.
 
 ### E-Commerce Operations & Customer Intelligence
 
-A real-world Data Analyst case study using the **Olist Brazilian E-Commerce Public Dataset**.
+A self-directed Data Analyst case study using the historical **Olist Brazilian E-Commerce Public Dataset**. It is public-data portfolio analysis, not client work.
 
 The project demonstrates an integrated Data Analyst + Power BI Analyst workflow:
 
@@ -61,13 +61,13 @@ These values describe the historical Olist dataset; they are not presented as cu
 
 A beginner-to-intermediate workbook using synthetic order data to demonstrate Excel tables, lookup logic, formula-backed KPIs, quality flags, and monthly/category reporting. Five affected rows are excluded from the summary, and the target margins are clearly labeled as illustrative assumptions.
 
-[Download workbook](https://nikhilamaragani-jpg.github.io/projects/excel-retail-analysis/Retail-Performance-Analysis.xlsx) · [Read the method](https://nikhilamaragani-jpg.github.io/projects/excel-retail-analysis/README.md)
+[Download workbook](https://nikhilamaragani-jpg.github.io/projects/excel-retail-analysis/Retail-Performance-Analysis.xlsx) · [Project report](https://github.com/nikhilamaragani-jpg/nikhilamaragani-jpg.github.io/blob/main/projects/excel-retail-analysis/docs/project-report.md) · [Read the method](https://nikhilamaragani-jpg.github.io/projects/excel-retail-analysis/README.md)
 
 ### EvidenceFirst — AI-Assisted Analytics Workbench
 
 A self-directed product prototype that profiles CSV inputs, calculates KPIs deterministically, and creates aggregate evidence packets for optional local-model interpretation. The public demo does not make model calls; the Python companion supports a localhost Ollama workflow with structured output checks and human review.
 
-[Open interactive demo](https://nikhilamaragani-jpg.github.io/projects/evidencefirst-ai-analytics/) · [Read architecture and limitations](https://github.com/nikhilamaragani-jpg/nikhilamaragani-jpg.github.io/tree/main/projects/evidencefirst-ai-analytics)
+[Open interactive demo](https://nikhilamaragani-jpg.github.io/projects/evidencefirst-ai-analytics/) · [Project report](https://github.com/nikhilamaragani-jpg/nikhilamaragani-jpg.github.io/blob/main/projects/evidencefirst-ai-analytics/docs/project-report.md) · [Read architecture and limitations](https://github.com/nikhilamaragani-jpg/nikhilamaragani-jpg.github.io/tree/main/projects/evidencefirst-ai-analytics)
 
 ---
 
