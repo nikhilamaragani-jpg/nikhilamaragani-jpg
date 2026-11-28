@@ -51,7 +51,7 @@ The flagship project now includes a live interactive BI workspace plus a native 
 
 These values describe the historical Olist dataset; they are not presented as current market statistics.
 
-[Open the live analysis](https://nikhilamaragani-jpg.github.io/projects/ecommerce-operations-intelligence/dashboard/) · [Read the project methodology](https://github.com/nikhilamaragani-jpg/nikhilamaragani-jpg.github.io/tree/main/projects/ecommerce-operations-intelligence) · [Power BI Analyst report](https://github.com/nikhilamaragani-jpg/ecommerece-operations-customer-intelligence/blob/main/docs/job-platform-project-report.md)
+[Open the live analysis](https://nikhilamaragani-jpg.github.io/projects/ecommerce-operations-intelligence/dashboard/) · [Read the project methodology](https://github.com/nikhilamaragani-jpg/nikhilamaragani-jpg.github.io/tree/main/projects/ecommerce-operations-intelligence) · [Excel workbook](https://nikhilamaragani-jpg.github.io/projects/ecommerce-operations-intelligence/excel/Olist-Ecommerce-Excel-Companion.xlsx) · [Excel project report](https://nikhilamaragani-jpg.github.io/projects/ecommerce-operations-intelligence/excel/Olist-Ecommerce-Excel-Companion-Report.pdf) · [Power BI Analyst report](https://github.com/nikhilamaragani-jpg/ecommerece-operations-customer-intelligence/blob/main/docs/job-platform-project-report.md)
 
 ---
 
