@@ -55,6 +55,22 @@ These values describe the historical Olist dataset; they are not presented as cu
 
 ---
 
+## Recent applied analytics projects
+
+### Retail Performance Analysis — Excel
+
+A beginner-to-intermediate workbook using synthetic order data to demonstrate Excel tables, lookup logic, formula-backed KPIs, quality flags, and monthly/category reporting. Five affected rows are excluded from the summary, and the target margins are clearly labeled as illustrative assumptions.
+
+[Download workbook](https://nikhilamaragani-jpg.github.io/projects/excel-retail-analysis/Retail-Performance-Analysis.xlsx) · [Read the method](https://nikhilamaragani-jpg.github.io/projects/excel-retail-analysis/README.md)
+
+### EvidenceFirst — AI-Assisted Analytics Workbench
+
+A self-directed product prototype that profiles CSV inputs, calculates KPIs deterministically, and creates aggregate evidence packets for optional local-model interpretation. The public demo does not make model calls; the Python companion supports a localhost Ollama workflow with structured output checks and human review.
+
+[Open interactive demo](https://nikhilamaragani-jpg.github.io/projects/evidencefirst-ai-analytics/) · [Read architecture and limitations](https://github.com/nikhilamaragani-jpg/nikhilamaragani-jpg.github.io/tree/main/projects/evidencefirst-ai-analytics)
+
+---
+
 ## Core Data Analyst capabilities
 
 **Analysis:** business questions · data quality · KPI design · exploratory analysis · metric interpretation
@@ -67,13 +83,14 @@ The specialist core is **Data Analyst first**. BI, advanced analytics, cloud, an
 
 ---
 
-## Learning milestone
+## Recent learning milestones
 
-**IBM — Introduction to Data Analytics, Course 1** · Completed October 3, 2026
+- **IBM — Introduction to Data Analytics, Course 1** · Completed October 3, 2026. This is one course, not the full IBM Data Analyst Professional Certificate. [Verify](https://coursera.org/verify/E6Z1ON902KHZ)
+- **IBM — Excel for Data Analysis: Essential Skills & Techniques** · Coursera · Completed November 27, 2026. [Verify](https://coursera.org/verify/ZEC3MDF5NRNH)
+- **IBM Digital Credential — Excel Essentials for Data Analytics** · Issued November 27, 2026. Listed as a related digital badge, with its [Credly record](https://www.credly.com/badges/f4ff7e42-a934-477d-936f-c2402894925a).
+- **BE10X — Certified AI Product & Content Creation Specialist** · AI Career Accelerator Program · Certificate of Mastery presented October 13, 2026. [Certificate evidence](https://github.com/nikhilamaragani-jpg/certificates-achievements/blob/main/certificates/BE10X-AI-Product-and-Content-Creation-Specialist.pdf)
 
-This is the first course of the IBM Data Analyst Professional Certificate, not completion of the full professional certificate.
-
-[Verify credential](https://coursera.org/verify/E6Z1ON902KHZ)
+These course and program records support the portfolio evidence; they are not presented as vendor-level professional licenses or years of work experience.
 
 ---
 
